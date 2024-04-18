@@ -1,5 +1,8 @@
 # 디지털 사이니지 app
 
+https://play.google.com/store/apps/details?id=com.aidevu.signage
+
+
 [언어] :: Kotlin
 
 [패턴] :: mvvm
