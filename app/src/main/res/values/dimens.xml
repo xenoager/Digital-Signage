@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimens_main_title">26sp</dimen>
+    <dimen name="dimens_main_body">21sp</dimen>
+    <dimen name="dimens_edittext_size">14sp</dimen>
+    <dimen name="dimens_main_bottom">15sp</dimen>
+    <dimen name="dimens_edittext_height">60dp</dimen>
+
+    <!-- Text Font Size -->
+    <dimen name="fs_2xlarge">22sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- Spinner Height Size -->
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#88CCBC</color>
+    <color name="colorPrimaryDark">#88CCBC</color>
+    <color name="colorAccent">#88CCBC</color>
+    <color name="colorMainColor">#88CCBC</color>
+    <color name="col_corner">#9E9E9E</color>
+    <color name="col_divider">#9E9E9E</color>
+    <color name="col_divider_kiosk_4">#4D4D4D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dialog_title">#FFFFFF</color>
+    <color name="dialog_ok_bg">#88CCBC</color>
+    <color name="dialog_ok_bg_press">#78B3A5</color>
+    <color name="dialog_cancel_bg">#656565</color>
+    <color name="dialog_cancel_press">#9D9C9C</color>
+    <color name="colorPurple">#6c63ff</color>
+    <color name="colorIndigo">#303F9F</color>
+    <color name="colorBlueMidnight">#003366</color>
+    <color name="colorGrey">#C9C9C9</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>

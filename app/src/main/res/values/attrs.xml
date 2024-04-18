@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- spinner  style -->
+    <declare-styleable name="SpinnerTextView">
+        <attr name="dropdown_max_height" format="dimension|reference" />
+        <attr name="dropdown_item_height" format="dimension|reference" />
+        <attr name="arrow_icon" format="integer|reference" />
+        <attr name="collapse_item_display_background" format="integer|reference" />
+        <attr name="expand_item_display_background" format="integer|reference" />
+        <attr name="drop_down_list_background" format="integer|reference" />
+        <attr name="hint_text_enable" format="boolean|reference" />
+    </declare-styleable>
+
+</resources>
