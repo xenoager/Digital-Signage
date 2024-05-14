@@ -5,17 +5,6 @@ https://play.google.com/store/apps/details?id=com.aidevu.signage
 
 <img width="663" alt="image" src="https://github.com/xenoager/Digital-Signage/assets/8413641/e0dc4bb6-54c6-4da4-bfaf-09f386e70227">
 
-
-[언어] :: Kotlin
-
-[패턴] :: mvvm
-
-[DB]  :: roomDb
-
-[통신] :: retrofit + coroutines
-
-[의존성] :: hilt
-
 # 소개
 
 [만든 이유]
